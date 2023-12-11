@@ -1,0 +1,246 @@
+{
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.sortJSON": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 12,
+  "editor.formatOnSave": true,
+  "editor.lineNumbers": "relative",
+  "editor.minimap.showSlider": "always",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.stickyScroll.enabled": true,
+  "editor.suggest.insertMode": "replace",
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "extensions.ignoreRecommendations": false,
+  "files.eol": "\n",
+  "git.openRepositoryInParentFolders": "always",
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "switch:command",
+    "stash-push:command"
+  ],
+  "gitlens.graph.minimap.additionalTypes": [
+    "localBranches",
+    "stashes",
+    "remoteBranches",
+    "tags"
+  ],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.configPath": "./.prettierrc.js",
+  "projectManager.git.baseFolders": [
+    "E:\\workspace"
+  ],
+  "projectManager.hg.baseFolders": [
+    "E:\\workspace"
+  ],
+  "projectManager.sortList": "Recent",
+  "remote.SSH.remotePlatform": {
+    "cq-txy": "linux",
+    "lhins-me7abmeg": "linux"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "sortJSON.orderOverride": [
+    "name",
+    "version",
+    "author",
+    "private",
+    "type",
+    "description"
+  ],
+  "sortJSON.orderUnderride": [
+    "dependencies",
+    "devDependencies"
+  ],
+  "sync.gist": "8da2ebeaf996e2b9901953ecfdc7ed55",
+  "terminal.explorerKind": "external",
+  "terminal.external.windowsExec": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.env.windows": {
+    "Path": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Tencent\\微信web开发者工具\\dll;C:\\Program Files\\Neovim\\bin;C:\\Users\\AW\\AppData\\Roaming\\nvm;C:\\Program Files\\nodejs;C:\\msys64\\mingw64\\bin;C:\\Program Files\\PowerShell\\7\\;C:\\Program Files\\starship\\bin\\;E:\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\AW\\AppData\\Local\\pnpm;C:\\Users\\AW\\scoop\\shims;C:\\Users\\AW\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\AW\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\AW\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\AW\\AppData\\Local\\atom\\bin;E:\\Microsoft VS Code\\bin;C:\\Users\\AW\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\AW\\AppData\\Roaming\\npm;C:Users\\AW\\AppData\\Roaming\\nvm;C:\\Program Files\\nodejs;E:\\flutterproject\\flutter\\bin;C:\\Users\\AW\\AppData\\Local\\Android\\Sdk;E:\\微信小程序开发者工具\\微信web开发者工具\\dll;"
+  },
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.profiles.windows": {
+    "Command Prompt": {
+      "args": [],
+      "icon": "terminal-cmd",
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ]
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "PowerShell": {
+      "icon": "terminal-powershell",
+      "source": "PowerShell"
+    },
+    "Windows PowerShell": {
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    }
+  },
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vim.foldfix": true,
+  "vim.highlightedyank.color": "rgba(250, 240, 170, 0.5)",
+  "vim.highlightedyank.enable": true,
+  "vim.highlightedyank.textColor": "rgba(250, 240, 170, 0.5)",
+  "vim.hlsearch": true,
+  "vim.leader": "<space>",
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": [
+        "leader",
+        "s"
+      ],
+      "commands": [
+        ":vsp"
+      ]
+    },
+    {
+      "before": [
+        "leader",
+        "k"
+      ],
+      "commands": [
+        "editor.action.showHover"
+      ]
+    },
+    {
+      "before": [
+        "[",
+        "d"
+      ],
+      "commands": [
+        "editor.action.marker.prevInFiles"
+      ]
+    },
+    {
+      "before": [
+        "]",
+        "d"
+      ],
+      "commands": [
+        "editor.action.marker.nextInFiles"
+      ]
+    },
+    {
+      "before": [
+        "<leader>",
+        "q",
+        "f"
+      ],
+      "commands": [
+        "editor.action.quickFix"
+      ]
+    },
+    {
+      "before": [
+        "<leader>",
+        "t"
+      ],
+      "commands": [
+        "extension.toggleBool"
+      ]
+    },
+    {
+      "before": [
+        "z",
+        "a"
+      ],
+      "commands": [
+        "editor.toggleFold"
+      ]
+    },
+    {
+      "before": [
+        "<leader>",
+        "g",
+        "h"
+      ],
+      "commands": [
+        "gitlens.showGraph"
+      ]
+    },
+    {
+      "before": [
+        "<leader>",
+        "f",
+        "h"
+      ],
+      "commands": [
+        "gitlens.views.lineHistory.focus"
+      ]
+    },
+    {
+      "before": [
+        "<leader>",
+        "f",
+        "t"
+      ],
+      "commands": [
+        "workbench.action.experimental.quickTextSearch"
+      ]
+    },
+    {
+      "before": [
+        "<leader>",
+        "g",
+        "l"
+      ],
+      "commands": [
+        "git-graph.view"
+      ]
+    }
+  ],
+  "vim.useSystemClipboard": true,
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/AW/AppData/Local/index.js"
+  ],
+  "window.menuBarVisibility": "compact",
+  "workbench.activityBar.location": "top",
+  "workbench.colorTheme": "Everforest Light",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.layoutControl.enabled": false,
+  "workbench.preferredDarkColorTheme": "Atom Material Theme",
+  "workbench.preferredHighContrastColorTheme": "Atom Material Theme",
+  "workbench.preferredLightColorTheme": "Atom Material Theme",
+  "workbench.settings.editor": "json",
+  "workbench.tree.indent": 20,
+  "workbench.tree.renderIndentGuides": "always",
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideStatusBar": false
+}
